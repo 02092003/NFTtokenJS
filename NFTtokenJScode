@@ -1,0 +1,18 @@
+let number0fNFTs = 0;
+function mintNFT(name, description){
+    const nftMetadata - {
+        name: name;
+        description: descriptions,
+    };
+    
+    numberOfNFTs++;
+    return nftMetadata;
+}
+
+function listNFTs(nfts) {
+    nfts.forEach(nft ->) {
+        console.log.("Name: " +nft.name);
+        console.log("Description: " +nft.description);
+        console.log("")
+    }
+}
